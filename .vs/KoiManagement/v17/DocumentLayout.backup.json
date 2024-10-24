@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\KoiControl\\KoiManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\businesslogic\\koiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\businesslogic\\koiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\koimanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\koimanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\entities\\koi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\entities\\koi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\entities\\pond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\entities\\pond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\dataaccess\\pondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\dataaccess\\pondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\businesslogic\\waterparameterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\businesslogic\\waterparameterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\businesslogic\\pondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\businesslogic\\pondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\dataaccess\\waterparameterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\dataaccess\\waterparameterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\dataaccess\\koirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\dataaccess\\koirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|i:\\koicontrol\\koimanagement\\koimanagement\\entities\\waterparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07840922-DEFE-4EB7-B3DE-604A220CC2E0}|KoiManagement\\KoiManagement.csproj|solutionrelative:koimanagement\\entities\\waterparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMsAAAAAAAAAAAASwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-24T02:59:20.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PondService.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\BusinessLogic\\PondService.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\BusinessLogic\\PondService.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\BusinessLogic\\PondService.cs",
+              "RelativeToolTip": "KoiManagement\\BusinessLogic\\PondService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:29:52.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaterParameterService.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\BusinessLogic\\WaterParameterService.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\BusinessLogic\\WaterParameterService.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\BusinessLogic\\WaterParameterService.cs",
+              "RelativeToolTip": "KoiManagement\\BusinessLogic\\WaterParameterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:29:06.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KoiService.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\BusinessLogic\\KoiService.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\BusinessLogic\\KoiService.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\BusinessLogic\\KoiService.cs",
+              "RelativeToolTip": "KoiManagement\\BusinessLogic\\KoiService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:28:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WaterParameterRepository.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\DataAccess\\WaterParameterRepository.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\DataAccess\\WaterParameterRepository.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\DataAccess\\WaterParameterRepository.cs",
+              "RelativeToolTip": "KoiManagement\\DataAccess\\WaterParameterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:27:26.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PondRepository.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\DataAccess\\PondRepository.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\DataAccess\\PondRepository.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\DataAccess\\PondRepository.cs",
+              "RelativeToolTip": "KoiManagement\\DataAccess\\PondRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:26:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KoiRepository.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\DataAccess\\KoiRepository.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\DataAccess\\KoiRepository.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\DataAccess\\KoiRepository.cs",
+              "RelativeToolTip": "KoiManagement\\DataAccess\\KoiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:25:45.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WaterParameter.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\Entities\\WaterParameter.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\Entities\\WaterParameter.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\Entities\\WaterParameter.cs",
+              "RelativeToolTip": "KoiManagement\\Entities\\WaterParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:24:09.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pond.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\Entities\\Pond.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\Entities\\Pond.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\Entities\\Pond.cs",
+              "RelativeToolTip": "KoiManagement\\Entities\\Pond.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:23:38.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Koi.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\Entities\\Koi.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\Entities\\Koi.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\Entities\\Koi.cs",
+              "RelativeToolTip": "KoiManagement\\Entities\\Koi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:23:00.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KoiManagement.csproj",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\KoiManagement.csproj",
+              "RelativeDocumentMoniker": "KoiManagement\\KoiManagement.csproj",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\KoiManagement.csproj",
+              "RelativeToolTip": "KoiManagement\\KoiManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T02:19:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\KoiControl\\KoiManagement\\KoiManagement\\Program.cs",
+              "RelativeDocumentMoniker": "KoiManagement\\Program.cs",
+              "ToolTip": "I:\\KoiControl\\KoiManagement\\KoiManagement\\Program.cs",
+              "RelativeToolTip": "KoiManagement\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:18:38.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

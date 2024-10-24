@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KoiManagement": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
